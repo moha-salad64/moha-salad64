@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salad Mohamed</h1>
 <h3 align="center">A passionate Web developer</h3>
 
+![](https://komarev.com/ghpvc/?username=moha-salad64)
+
 🚀 About Me
 - 🧠 Learning and building full-stack projects using React, Node.js, Flask, MongoDB
 - ⚡ I believe coding should be fun and collaborative
