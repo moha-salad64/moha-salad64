@@ -4,6 +4,7 @@
 🚀 About Me
 - 🧠 Learning and building full-stack projects using React, Node.js, Flask, MongoDB
 - ⚡ I believe coding should be fun and collaborative
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning **TypeScript , Nodejs and Express , Prisma**
 
