@@ -12,12 +12,14 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 **How to reach me**
- - **mohamedsalaad509@gmail.com**
+📫 How to reach me **mohamedsalaad509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <button> 
  <a href="https://www.linkedin.com/in/mohamed-salaad-mohamed-68a5301b5/">LinkedIn</a>
+</button>
+<button> 
+ <a href="mohasalaad452@gmail.com">Email</a>
 </button>
 <button> 
  <a href="mohasalaad452@gmail.com">Email</a>
