@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <button> 
- <a href="www.linkedin.com/in/mohamed-salaad-mohamed-68a5301b5">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/mohamed-salaad-mohamed-68a5301b5/">LinkedIn</a>
 </button>
 
 <h3 align="left">Languages and Tools:</h3>
