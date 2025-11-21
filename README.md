@@ -10,7 +10,10 @@
 
 - 💬 Ask me about **Html , css , javascript , Reactjs , Flask**
 
-- 📫 How to reach me **mohamedsalaad509@gmail.com**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📫 *How to reach me*
+ - **mohamedsalaad509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
