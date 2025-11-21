@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salad Mohamed</h1>
 <h3 align="center">A passionate Web developer</h3>
 
+🚀 About Me
+🧠 Learning and building full-stack projects using React, Node.js, Flask, MongoDB
+🤝 Actively contributing to open source communities
+⚡ I believe coding should be fun and collaborative
+
 - 🌱 I’m currently learning **TypeScript , Nodejs and Express , Prisma**
 
-- 💬 Ask me about **Html , css , javascript , Reactjs , java**
+- 💬 Ask me about **Html , css , javascript , Reactjs , Flask**
 
 - 📫 How to reach me **mohamedsalaad509@gmail.com**
 
