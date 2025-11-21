@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Web developer</h3>
 
 🚀 About Me
-🧠 Learning and building full-stack projects using React, Node.js, Flask, MongoDB
-🤝 Actively contributing to open source communities
-⚡ I believe coding should be fun and collaborative
+- 🧠 Learning and building full-stack projects using React, Node.js, Flask, MongoDB
+- ⚡ I believe coding should be fun and collaborative
 
 - 🌱 I’m currently learning **TypeScript , Nodejs and Express , Prisma**
 
